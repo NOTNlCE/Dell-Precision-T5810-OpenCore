@@ -12,6 +12,7 @@
 - 32GB DDR4R
 - TP-Link Broadcom Wireless
 - 500GB SATA SSD
+- BIOS A33
 
 # What Works
 
