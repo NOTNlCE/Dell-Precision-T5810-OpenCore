@@ -1,5 +1,6 @@
 # Dell Precision T5810 OpenCore
  OpenCore for the Dell Precision T5810
+ NOTE: This repository is deprecated, please use: https://github.com/BillDH2k/Hackintosh-DELL-T5810-OpenCore 
  
 # OS
 
